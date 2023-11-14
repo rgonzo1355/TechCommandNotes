@@ -4,7 +4,7 @@ Welcome to my tech command notes repository! Here, you'll find helpful informati
 
 ## Table of Contents
 
-- [Command Prompt (CMD)](#command-prompt-cmd)
+- [Command Prompt (CMD)][(#command-prompt-cmd](https://github.com/rgonzo1355/TechCommandNotes/blob/main/CMD))
 - [PowerShell](#powershell)
 - [PowerShell ISE](#powershell-ise)
 - [Terminal (Linux)](#terminal-linux)
