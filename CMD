@@ -1,0 +1,81 @@
+# Essential Command Prompt (CMD) Commands and Their Uses
+
+1. **cd (Change Directory):**
+   - *Usage:* `cd [directory path]`
+   - *Description:* Changes the current directory to the specified path.
+
+2. **dir:**
+   - *Usage:* `dir [options]`
+   - *Description:* Lists the files and directories in the current directory.
+
+3. **cls:**
+   - *Usage:* `cls`
+   - *Description:* Clears the screen.
+
+4. **copy:**
+   - *Usage:* `copy [source] [destination]`
+   - *Description:* Copies one or more files to another location.
+
+5. **del (Delete):**
+   - *Usage:* `del [file(s)]`
+   - *Description:* Deletes one or more files.
+
+6. **ren (Rename):**
+   - *Usage:* `ren [old filename] [new filename]`
+   - *Description:* Renames a file or directory.
+
+7. **md or mkdir (Make Directory):**
+   - *Usage:* `md [directory name]` or `mkdir [directory name]`
+   - *Description:* Creates a new directory.
+
+8. **rd or rmdir (Remove Directory):**
+   - *Usage:* `rd [directory name]` or `rmdir [directory name]`
+   - *Description:* Removes an empty directory.
+
+9. **type:**
+   - *Usage:* `type [file]`
+   - *Description:* Displays the contents of a text file.
+
+10. **echo:**
+    - *Usage:* `echo [text]`
+    - *Description:* Displays messages or turns command echoing on/off.
+
+11. **ipconfig:**
+    - *Usage:* `ipconfig [options]`
+    - *Description:* Displays the IP configuration for all network interfaces.
+
+12. **ping:**
+    - *Usage:* `ping [hostname or IP address]`
+    - *Description:* Tests the reachability of a host on an IP network.
+
+13. **netstat:**
+    - *Usage:* `netstat [options]`
+    - *Description:* Displays active network connections and listening ports.
+
+14. **tasklist:**
+    - *Usage:* `tasklist [options]`
+    - *Description:* Lists all running processes.
+
+15. **taskkill:**
+    - *Usage:* `taskkill [options]`
+    - *Description:* Terminates one or more processes.
+
+16. **sfc (System File Checker):**
+    - *Usage:* `sfc /scannow`
+    - *Description:* Scans and repairs system files for integrity violations.
+
+17. **chkdsk (Check Disk):**
+    - *Usage:* `chkdsk [drive letter] /f`
+    - *Description:* Checks a disk for errors and fixes them.
+
+18. **systeminfo:**
+    - *Usage:* `systeminfo`
+    - *Description:* Displays detailed information about the computer's hardware and software.
+
+19. **shutdown:**
+    - *Usage:* `shutdown [options]`
+    - *Description:* Shuts down or restarts the computer.
+
+20. **gpupdate:**
+    - *Usage:* `gpupdate /force`
+    - *Description:* Forces an immediate update of Group Policy.
